@@ -1,0 +1,7 @@
+#TODO:Hamma kerakli narsalarni import qilish
+#TODO:ekranni to'girlash
+#TODO:Dizaynni french va undan chiqadigan so'zni kattalashtirish va font berish
+#TODO:try,except va elsedan faylni o'qiyatgonimizda foydalanish
+#TODO:funksiyalarni yaratish french so'zni qilish uchun, english so'z uchun va odam bilgan va bilmaganini bilish uchun
+#TODO:Qavslarni olib uni dictionaryga aylantirish mana bu narsa orqali https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_json.html
+#TODO:Ekranni o'chmaydigan qilish va mayda-chuydalar
